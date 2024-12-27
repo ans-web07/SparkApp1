@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3bda3018-d572-495a-b66c-7c5801ca2317" name="Changes" comment="Pyspark 1st app&#10;&#10;Signed-off-by: ans-web07 &lt;07anshika@gmail.com&gt;">
+      <change afterPath="$PROJECT_DIR$/p1/lib/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p1/spark.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p1/app-logs/hello-spark.log" beforeDir="false" afterPath="$PROJECT_DIR$/p1/app-logs/hello-spark.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/p1/hellospark.py" beforeDir="false" afterPath="$PROJECT_DIR$/p1/hellospark.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -145,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735303164709</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Pyspark 1st app&#10;&#10;Signed-off-by: ans-web07 &lt;07anshika@gmail.com&gt;">
+      <option name="closed" value="true" />
+      <created>1735303984400</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735303984400</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
